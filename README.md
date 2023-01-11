@@ -1,4 +1,5 @@
 # Syed W. Hasan's Résumé
 
+:star: Welcome to my resume! :star:
 
-View my resume here: <a href="" rel="nofollow">View Resume here</a>
+➡️ [View Resume here](https://www.linkedin.com/in/syedwadoodhasan-5a7bb21a8).
