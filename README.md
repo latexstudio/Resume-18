@@ -1,4 +1,4 @@
-# Syed W. Hasan's Résumé
+### Syed W. Hasan's Résumé
 
 :star: Welcome to my resume! :star:
 
