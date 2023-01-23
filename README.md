@@ -3,10 +3,10 @@
 
 :star: Welcome to my resume! :star:
 
-➡️ [View PDF here](https://github.com/Deadrep/Resume/blob/main/Syed%20W.%20Hasan%20--%20Junior%20Software%20Dev.%20Resume.pdf).
+➡️ [View PDF here](https://github.com/Deadrep/Resume/blob/ba4a0a95800e8a7daf4b3ce51f471dbc68eec585/Syed%20W.%20Hasan%20-%20Junior%20Software%20Dev.pdf).
 
 ### Preview
-![Resume Screenshot](https://github.com/Deadrep/Resume/blob/main/Syed%20W.%20Hasan%20--%20Junior%20Software%20Dev.%20Resume.png)
+![Resume Screenshot](https://github.com/Deadrep/Resume/blob/ba4a0a95800e8a7daf4b3ce51f471dbc68eec585/Syed%20W.%20Hasan%20-%20Junior%20Software%20Dev.png)
 
 ## Résumé in LaTeX
 
